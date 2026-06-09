@@ -1,0 +1,20 @@
+
+Date & Time : 2026-06-08 03:43:47.390719
+Original Text : HELLO,HOW ARE YOU?
+Translated Text : नमस्ते, आप कैसे हैं?
+--------------------------------------------------
+
+Date & Time : 2026-06-08 04:02:46.790317
+Original Text : hello, how are you?
+Translated Text : नमस्ते, आप कैसे हैं?
+--------------------------------------------------
+
+Date & Time : 2026-06-09 07:31:24.492049
+Original Text : hello,how are you?
+Translated Text : नमस्ते, आप कैसे हैं?
+--------------------------------------------------
+
+Date & Time : 2026-06-09 07:33:57.451323
+Original Text : are you feeling well?
+Translated Text : क्या तुम ठीक अनुभव कर रहे हो?
+--------------------------------------------------
